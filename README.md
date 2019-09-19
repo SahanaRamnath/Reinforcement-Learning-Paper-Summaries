@@ -1,5 +1,6 @@
 # Reinforcement-Learning-Paper-Summaries
-This repository contains recent papers in active areas of RL such as Deep RL, Hierarchical RL, Model-based RL etc. and accompanying summaries.
+This repository contains summaries of some recent papers in active areas of RL such as Deep RL, Hierarchical RL, Model-based RL etc. 
+It also includes a detailed presentation for the paper [A Distributional Perspective on Reinforcement Learning](https://arxiv.org/abs/1707.06887). 
 Done as a part of CS7011 : Topics in Reinforcement Learning.
 
 # Papers
